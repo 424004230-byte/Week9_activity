@@ -1,0 +1,7 @@
+[Library Hall] Inserted: $3. Current balance: $3
+[Library Hall] Dispensing Soda. Remaining balance: $1
+Library Machine Balance Check: $1
+
+[Main Lobby] Inserted: $2. Current balance: $2
+[Main Lobby] Insufficient funds for Sandwich. Price: $4.5, Balance: $2
+[Main Lobby] Dispensing Water. Remaining balance: $1
